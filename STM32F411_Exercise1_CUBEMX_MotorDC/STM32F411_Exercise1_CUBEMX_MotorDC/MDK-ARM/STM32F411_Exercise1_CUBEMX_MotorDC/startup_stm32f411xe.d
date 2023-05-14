@@ -1,0 +1,1 @@
+stm32f411_exercise1_cubemx_motordc\startup_stm32f411xe.o: startup_stm32f411xe.s
